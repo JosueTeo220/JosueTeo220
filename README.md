@@ -6,7 +6,7 @@
   <div style="display: inline_block"><br>
   <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueTeo220&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueTeo220&layout=compact&langs_count=16&theme=github_dark"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueTeo220&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
   <img align="left" height="250" alt=f"coding-time" src="developer_med.gif">
     <br>
