@@ -3,8 +3,7 @@
 [![Typing SVG](<https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+My+name+is+JOSUÉ;I'm+Software+Engineering+Student+at+FIAP;I'm+from+Brazil+(São+Paulo);I'm+20+years+old;Welcome+to+my+GitHub!+:%29>)](https://git.io/typing-svg)
   <div style="display: inline_block"><br>
   <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueTeo220&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueTeo220&layout=compact&langs_count=16&theme=github_dark"/>
+  
 </div>
   <img align="left" height="250" alt=f"coding-time" src="developer_med.gif">
     <br>
