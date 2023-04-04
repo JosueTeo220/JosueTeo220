@@ -5,7 +5,6 @@
   <div>
   
 </div>
-  <img align="left" height="250" alt=f"coding-time" src="developer_med.gif">
     <br>
     <h1 align="center">HardSkills</h1>
     <div align="center">
