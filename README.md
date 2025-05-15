@@ -6,6 +6,11 @@
   
 </div>
     <br>
+    <p>Atuando em projetos (Piracanjuba/Smiles/GOL), como Analista de Testes Automatizados, colaboro com squads de atendimento e regressivo para garantir a qualidade de software. Utilizo ferramentas como Selenium e Cypress para automação de testes web e APIs, além de participar ativamente das cerimônias do Scrum, trabalhando em equipe para assegurar entregas de alto padrão. 
+
+Como estudante de Engenharia de Software na FIAP e Engenheiro da Computação formado, combino aprendizado acadêmico com experiência prática adquirida na Atomic Solutions, onde desenvolvi testes automatizados em diversos ambientes e linguagens. Meu objetivo é aplicar soluções técnicas inovadoras e contribuir para a evolução contínua dos processos de qualidade em tecnologia.
+
+Software Engineering | Computer Engineering | Mobile Development | Web Development | Scrum | Linux | MacOS | HTML | CSS | JavaScript | Jquery | React | Sass | SCSS | SLQ | Flutter | C | C++ | Java | Visual Basic | Python | Dart | Figma | Git | Quality Assurance | Playwright | Selenium | Cypress | Rest Assured</p>
     <h1 align="center">HardSkills</h1>
     <div align="center">
     <img align="center" height="50" width="60" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
