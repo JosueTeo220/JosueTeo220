@@ -6,9 +6,11 @@
   
 </div>
     <br>
-    <p>Atuando em projetos (Piracanjuba/Smiles/GOL), como Analista de Testes Automatizados, colaboro com squads de atendimento e regressivo para garantir a qualidade de software. Utilizo ferramentas como Selenium e Cypress para automação de testes web e APIs, além de participar ativamente das cerimônias do Scrum, trabalhando em equipe para assegurar entregas de alto padrão. 
+    <p>Tenho 23 anos. Como estudante de Engenharia de Software na FIAP e Engenheiro da Computação formado, combino aprendizado acadêmico com experiência prática adquirida na Atomic Solutions, onde desenvolvi testes automatizados e softwares em diversos ambientes e linguagens. Meu objetivo é aplicar soluções técnicas inovadoras e contribuir para a evolução contínua dos processos de qualidade em tecnologia.
 
-Como estudante de Engenharia de Software na FIAP e Engenheiro da Computação formado, combino aprendizado acadêmico com experiência prática adquirida na Atomic Solutions, onde desenvolvi testes automatizados em diversos ambientes e linguagens. Meu objetivo é aplicar soluções técnicas inovadoras e contribuir para a evolução contínua dos processos de qualidade em tecnologia.
+Na GOL Linhas Aéreas, como Desenvolvedor Full-Stack, contribuo para um projeto estratégico utilizado por times de tecnologia, negócios e QA. Utilizo tecnologias como Node.js, React, SQL e Azure para criar sistemas backend e frontend robustos, garantindo escalabilidade e eficiência. 
+
+Na Smiles, como Analista de Testes Automatizados, colaborei com squads como atendimento humano e regressivo para garantir a qualidade de software. Utilizei ferramentas como Selenium e Cypress para automação de testes web e APIs, além de participar ativamente das cerimônias do Scrum, trabalhando em equipe para assegurar entregas de alto padrão. 
 
 Software Engineering | Computer Engineering | Mobile Development | Web Development | Scrum | Linux | MacOS | HTML | CSS | JavaScript | Jquery | React | Sass | SCSS | SLQ | Flutter | C | C++ | Java | Visual Basic | Python | Dart | Figma | Git | Quality Assurance | Playwright | Selenium | Cypress | Rest Assured</p>
     <h1 align="center">HardSkills</h1>
