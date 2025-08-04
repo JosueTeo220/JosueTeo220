@@ -2,7 +2,57 @@
 
 [![Typing SVG](<https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+My+name+is+JOSUÉ;I'm+Software+Engineer+and+Computer+Engineer;I+currently+live+in+Brazil+(São+Paulo);I'm+23+years+old;Welcome+to+my+GitHub!+:%29>)](https://git.io/typing-svg)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LisTra-A666_(#0A66C2)?style=flat&logo=linkedin&)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140" alt="Bem-vindo" width="100%" />
+
+# Josué Teo  
+<sub>Software Engineer • Full-Stack Developer • QA Automation • São Paulo 🇧🇷</sub>  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)][linkedin] [![Email Badge](https://img.shields.io/badge/-E-mail-D14836?style=flat&logo=gmail)][email] [![CV Badge](https://img.shields.io/badge/-Curr%C3%ADculo-0078D4?style=flat&logo=pdf&color=0078D4)][cv]  
+
+---
+
+## 💼 Eu em poucas palavras  
+<p>Sou Engenheiro da Computação e atual estudante de Engenharia de Software (FIAP). Atuei na Atomic Solutions com projetos de automação de testes usando Selenium, Cypress e RestAssured. Na GOL, desenvolvo soluções backend em Node.js, frontend em React e pipelines CI/CD no Azure. Na Smiles, conduzi squads de QA para testes regressivos e atendimentos reais.</p>
+
+---
+
+## 🔭 Projetos em destaque
+
+### 🛠️ GOL Dashboard Insights  
+Mobile-first dashboard para monitoramento de entregas de vendas, com além de filtros SQL dinâmico, autenticação JWT e pipelines CI/CD no Azure.
+
+### 🧪 Suites de Testes Automatizados  
+Repositório com exemplos reais usando Selenium, Cypress e Playwright integrados via GitHub Actions — com relatórios HTML e artefatos no GitHub.
+
+### 📱 App Flutter de Notificações  
+App mobile cross-platform com notificações em tempo real e integração via Firebase — ideal para bolsas de estudos de mobilidade.
+
+---
+
+## 🧰 Tech Stack
+
+JavaScript • Node.js • React • Flutter • Dart • SQL • Azure • Playwright • Selenium • Cypress • Python • Git • Docker • Figma
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /> … outros ícones alinhados na mesma linha.
+</div>
+
+---
+
+## 📈 Estatísticas & Métricas  
+[🔧 Veja minhas estatísticas no GitHub](https://github.com/JosueTeo220)
+
+<sub>PS: use com moderação — conforme discutido pela comunidade, o foco em números pode prejudicar a percepção de qualidade real de projetos:</sub>  
+> “I’ve recently seen a lot of GitHub profiles using GitHub Readme Stats, … contribute to a toxic culture…” :contentReference[oaicite:22]{index=22}
+
+---
+
+## 📬 Contato  
+**Email:** josue.teo@email.com • **LinkedIn:** [linkedin.com/in/JosueTeo220](https://linkedin.com/in/JosueTeo220)
+
+[linkedin]: https://linkedin.com/in/JosueTeo220  
+[email]: mailto:josue.teo@email.com  
+[cv]: https://example.com/CV-JosueTeo.pdf
+
 
  <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
