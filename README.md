@@ -4,7 +4,7 @@
 
 <sub>Software Engineer • Full-Stack Developer • QA Automation • São Paulo 🇧🇷</sub> 
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](linkedin) [![Email Badge](https://img.shields.io/badge/-E-mail-D14836?style=flat&logo=gmail)][email] [![CV Badge](https://img.shields.io/badge/-Curr%C3%ADculo-0078D4?style=flat&logo=pdf&color=0078D4)][cv]  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)][linkedin] [![Email Badge](https://img.shields.io/badge/-E-mail-D14836?style=flat&logo=gmail)][email] [![CV Badge](https://img.shields.io/badge/-Curr%C3%ADculo-0078D4?style=flat&logo=pdf&color=0078D4)][cv]  
 
 ---
 
