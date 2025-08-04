@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](<https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+My+name+is+JOSUÉ;I'm+Software+Engineer+and+Computer+Engineer;I+currently+live+in+Brazil+(São+Paulo);I'm+23+years+old;Welcome+to+my+GitHub!+:%29>)](https://git.io/typing-svg)
+ <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JosueTeo220" />
 </a>
