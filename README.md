@@ -1,9 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](<https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+My+name+is+JOSUÉ;I'm+Software+Engineer+and+Computer+Engineer;I+currently+live+in+Brazil+(São+Paulo);I'm+23+years+old;Welcome+to+my+GitHub!+:%29>)](https://git.io/typing-svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueTeo220)](https://github.com/anuraghazra/github-readme-stats)
   <div style="display: inline_block"><br>
   <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueTeo220)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
     <br>
     <p>Tenho 23 anos. Como estudante de Engenharia de Software na FIAP e Engenheiro da Computação formado, combino aprendizado acadêmico com experiência prática adquirida na Atomic Solutions, onde desenvolvi testes automatizados e softwares em diversos ambientes e linguagens. Meu objetivo é aplicar soluções técnicas inovadoras e contribuir para a evolução contínua dos processos de qualidade em tecnologia.
