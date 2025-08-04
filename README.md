@@ -15,8 +15,8 @@
 
 ## 🔭 Projetos em destaque
 
-### 🛠️ GOL/Smiles  
-JARVIS - Aplicação onde fui responsavel pela administração e desenvolvimento FullStack. Aplicação estratégica de RPA que facilitava obtenção de massas de testes entre outras funções.
+### ✈️ GOL/Smiles  
+<p>JARVIS - Aplicação onde fui responsavel pela administração e desenvolvimento FullStack. Aplicação estratégica de RPA que facilitava obtenção de massas de testes entre outras funções.</p>
 ---
 
 ## 🧰 Tech Stack
