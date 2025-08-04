@@ -50,13 +50,8 @@
 
 ---
 
-## 📈 Estatísticas & Métricas  
-[🔧 Veja minhas estatísticas no GitHub](https://github.com/JosueTeo220)
-
----
-
 ## 📬 Contato  
-**Email:** josueteobaldo220@hotmail.ocm.com • **LinkedIn:** [[linkedin.com/in/josueteobaldotech220](https://linkedin.com/in/josueteobaldotech220)]
+**Email:** josueteobaldo220@hotmail.ocm.com • **LinkedIn:** [linkedin.com/in/josueteobaldotech220](https://linkedin.com/in/josueteobaldotech220)
 
 [linkedin]: https://linkedin.com/in/josueteobaldotech220  
 [email]: mailto:josue.teo@email.com  
