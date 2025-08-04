@@ -8,30 +8,23 @@
 
 ---
 
-## 💼 Eu em poucas palavras  
-<p>Sou Engenheiro da Computação e atual estudante de Engenharia de Software (FIAP). Atuei na Atomic Solutions com projetos de automação de testes usando Selenium, Cypress e RestAssured. Na GOL, desenvolvo soluções backend em Node.js, frontend em React e pipelines CI/CD no Azure. Na Smiles, conduzi squads de QA para testes regressivos e atendimentos reais.</p>
+## 💼 Sobre  
+<p>Sou Engenheiro da Computação e atual estudante de Engenharia de Software (FIAP). Na GOL, desenvolvo soluções backend em Node, frontend em React e pipelines CI/CD. Na Smiles, participei de squads de QA, como regressivo e atendimento, para testes em diversas camadas em ambientes de produção, pre-produção e homologação (UAT). Atuei na Atomic Solutions com projetos de automação de testes usando Selenium, Cypress e RestAssured.</p>
 
 ---
 
 ## 🔭 Projetos em destaque
 
-### 🛠️ GOL Dashboard Insights  
-Mobile-first dashboard para monitoramento de entregas de vendas, com além de filtros SQL dinâmico, autenticação JWT e pipelines CI/CD no Azure.
-
-### 🧪 Suites de Testes Automatizados  
-Repositório com exemplos reais usando Selenium, Cypress e Playwright integrados via GitHub Actions — com relatórios HTML e artefatos no GitHub.
-
-### 📱 App Flutter de Notificações  
-App mobile cross-platform com notificações em tempo real e integração via Firebase — ideal para bolsas de estudos de mobilidade.
-
+### 🛠️ GOL/Smiles  
+JARVIS - Aplicação onde fui responsavel pela administração e desenvolvimento FullStack. Aplicação estratégica de RPA que facilitava obtenção de massas de testes entre outras funções.
 ---
 
 ## 🧰 Tech Stack
 
-JavaScript • Node.js • React • Flutter • Dart • SQL • Azure • Playwright • Selenium • Cypress • Python • Git • Docker • Figma
+JavaScript • Node.js • React • Flutter • Dart • SQL • Azure • Playwright • Selenium • Cypress • Python • Git • Docker • Figma • 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /> … outros ícones alinhados na mesma linha.
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
 </div>
 
 ---
@@ -39,13 +32,10 @@ JavaScript • Node.js • React • Flutter • Dart • SQL • Azure • Play
 ## 📈 Estatísticas & Métricas  
 [🔧 Veja minhas estatísticas no GitHub](https://github.com/JosueTeo220)
 
-<sub>PS: use com moderação — conforme discutido pela comunidade, o foco em números pode prejudicar a percepção de qualidade real de projetos:</sub>  
-> “I’ve recently seen a lot of GitHub profiles using GitHub Readme Stats, … contribute to a toxic culture…” :contentReference[oaicite:22]{index=22}
-
 ---
 
 ## 📬 Contato  
-**Email:** josue.teo@email.com • **LinkedIn:** [linkedin.com/in/JosueTeo220](https://linkedin.com/in/JosueTeo220)
+**Email:** josueteobaldo220@hotmail.ocm.com • **LinkedIn:** [[linkedin.com/in/josueteobaldotech220](https://linkedin.com/in/josueteobaldotech220)]
 
 [linkedin]: https://linkedin.com/in/josueteobaldotech220  
 [email]: mailto:josue.teo@email.com  
