@@ -2,7 +2,7 @@
 
 [![Typing SVG](<https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+My+name+is+JOSUÉ;I'm+Software+Engineer+and+Computer+Engineer;I+currently+live+in+Brazil+(São+Paulo);I'm+23+years+old;Welcome+to+my+GitHub!+:%29>)](https://git.io/typing-svg)
 <sub>Software Engineer • Full-Stack Developer • QA Automation • São Paulo 🇧🇷</sub>  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)][linkedin] [![Email Badge](https://img.shields.io/badge/-E-mail-D14836?style=flat&logo=gmail)][email] [![CV Badge](https://img.shields.io/badge/-Curr%C3%ADculo-0078D4?style=flat&logo=pdf&color=0078D4)][cv]  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) [![Email Badge](https://img.shields.io/badge/-E-mail-D14836?style=flat&logo=gmail)][email] [![CV Badge](https://img.shields.io/badge/-Curr%C3%ADculo-0078D4?style=flat&logo=pdf&color=0078D4)][cv]  
 
 ---
 
