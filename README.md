@@ -4,19 +4,19 @@
 
 <sub>Software Engineer • Full-Stack Developer • QA Automation • São Paulo 🇧🇷</sub> 
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)][linkedin] [![CV Badge](https://img.shields.io/badge/-Curr%C3%ADculo-0078D4?style=flat&logo=pdf&color=0078D4)][cv]  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)][linkedin]
 
 ---
 
-## 💼 Sobre  
-<p>Sou Engenheiro da Computação e atual estudante de Engenharia de Software (FIAP). Na GOL, desenvolvo soluções backend em Node, frontend em React e pipelines CI/CD. Na Smiles, participei de squads de QA, como regressivo e atendimento, para testes em diversas camadas em ambientes de produção, pre-produção e homologação (UAT). Atuei na Atomic Solutions com projetos de automação de testes usando Selenium, Cypress e RestAssured.</p>
+## 💼 About  
+<p>I'm a Computer Engineer and currently studying Software Engineering (FIAP). At GOL, I develop backend solutions in Node, frontend in React, and CI/CD pipelines. At Smiles, I participated in QA squads, such as regression and support, for multi-layer testing in production, pre-production, and UAT environments. I worked at Atomic Solutions on test automation projects using Selenium, Cypress, and RestAssured.</p>
 
 ---
 
-## 🔭 Projetos em destaque
+## 🔭 Featured Projects
 
 ### ✈️ GOL/Smiles  
-<p>JARVIS - Aplicação onde fui responsavel pela administração e desenvolvimento FullStack. Aplicação estratégica de RPA que facilitava obtenção de massas de testes entre outras funções.</p>
+<p>JARVIS - Application for which I was responsible for FullStack administration and development. A strategic RPA application that facilitated the collection of test volumes, among other functions.</p>
 
 ---
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 📬 Contato  
+## 📬 Contact  
 **Email:** josueteobaldo220@hotmail.ocm.com • **LinkedIn:** [linkedin.com/in/josueteobaldotech220](https://linkedin.com/in/josueteobaldotech220)
 
 [linkedin]: https://linkedin.com/in/josueteobaldotech220  
@@ -70,10 +70,10 @@
   
 </div>
     <br>
-    <p>Tenho 23 anos. Como estudante de Engenharia de Software na FIAP e Engenheiro da Computação formado, combino aprendizado acadêmico com experiência prática adquirida na Atomic Solutions, onde desenvolvi testes automatizados e softwares em diversos ambientes e linguagens. Meu objetivo é aplicar soluções técnicas inovadoras e contribuir para a evolução contínua dos processos de qualidade em tecnologia.
+    <p>I'm 23 years old. As a Software Engineering student at FIAP and a Computer Engineer, I combine academic learning with practical experience gained at Atomic Solutions, where I developed automated tests and software in various environments and languages. My goal is to apply innovative technical solutions and contribute to the continuous evolution of quality processes in technology.
 
-Na GOL Linhas Aéreas, como Desenvolvedor Full-Stack, contribuo para um projeto estratégico utilizado por times de tecnologia, negócios e QA. Utilizo tecnologias como Node.js, React, SQL e Azure para criar sistemas backend e frontend robustos, garantindo escalabilidade e eficiência. 
+At GOL Linhas Aéreas, as a Full-Stack Developer, I contribute to a strategic project used by technology, business, and QA teams. I use technologies such as Node.js, React, SQL, and Azure to create robust backend and frontend systems, ensuring scalability and efficiency.
 
-Na Smiles, como Analista de Testes Automatizados, colaborei com squads como atendimento humano e regressivo para garantir a qualidade de software. Utilizei ferramentas como Selenium e Cypress para automação de testes web e APIs, além de participar ativamente das cerimônias do Scrum, trabalhando em equipe para assegurar entregas de alto padrão. 
+At Smiles, as an Automated Test Analyst, I collaborated with squads such as human and regression support to ensure software quality. I used tools such as Selenium and Cypress to automate web and API tests, in addition to actively participating in Scrum ceremonies, working as a team to ensure high-quality deliveries.
 
-Software Engineering | Computer Engineering | Mobile Development | Web Development | Scrum | Linux | MacOS | HTML | CSS | JavaScript | Jquery | React | Sass | SCSS | SLQ | Flutter | C | C++ | Java | Visual Basic | Python | Dart | Figma | Git | Quality Assurance | Playwright | Selenium | Cypress | Rest Assured</p>
+Software Engineering | Computer Engineering | Mobile Development | Web Development | Scrum | Linux | macOS | HTML | CSS | JavaScript | JQuery | React | Sass | SCSS | SLQ | Flutter | C | C++ | Java | Visual Basic | Python | Dart | Figma | Git | Quality Assurance | Playwright | Selenium | Cypress | Rest Assured</p>
